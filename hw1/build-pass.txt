@@ -1,0 +1,9 @@
+0. Add ${LLVM_INSTALL}/bin to your PATH
+
+1. Build 
+
+a. cd ${PATH_TO_hw1}
+b. mkdir build
+c. cd build
+d. cmake ..
+e. make
